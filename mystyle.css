@@ -1,0 +1,12 @@
+#categories {
+    float: left;
+    width: 20%;
+}
+#products {
+    float: left;
+    width: 40%;
+}
+#product-info {
+    float: left;
+    width: 40%;
+}
